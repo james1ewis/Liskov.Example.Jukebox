@@ -1,0 +1,7 @@
+C:\@Development\Liskov.Jukebox\Liskov.Jukebox.Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\@Development\Liskov.Jukebox\Liskov.Jukebox.Example\bin\Debug\Liskov.Jukebox.Example.dll
+C:\@Development\Liskov.Jukebox\Liskov.Jukebox.Example\bin\Debug\Liskov.Jukebox.Example.pdb
+C:\@Development\Liskov.Jukebox\Liskov.Jukebox.Example\bin\Debug\nunit.framework.dll
+C:\@Development\Liskov.Jukebox\Liskov.Jukebox.Example\bin\Debug\nunit.framework.xml
+C:\@Development\Liskov.Jukebox\Liskov.Jukebox.Example\obj\x86\Debug\Liskov.Jukebox.Example.dll
+C:\@Development\Liskov.Jukebox\Liskov.Jukebox.Example\obj\x86\Debug\Liskov.Jukebox.Example.pdb

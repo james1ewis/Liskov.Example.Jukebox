@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Liskov.Jukebox.Example.Jukebox">
+    <Position X="1.5" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAACAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Jukebox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Liskov.Jukebox.Example.HighQualityMusicPlayer">
+    <Position X="4" Y="3.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\MusicPlayer\HighQualityMusicPlayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.193" Collapsed="true" />
+  </Class>
+  <Class Name="Liskov.Jukebox.Example.StandardMusicPlayer">
+    <Position X="6.5" Y="3.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\MusicPlayer\StandardMusicPlayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Liskov.Jukebox.Example.IMusicPlayer">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\MusicPlayer\IMusicPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
